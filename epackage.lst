@@ -22,6 +22,6 @@ hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all 
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List: package URL database
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
 markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
-rst-mode		git://github.com/jaalto/emacs-epkg-rst-mode mode for viewing and editing reStructuredText-documents
+rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for viewing and editing reStructuredText-documents
 
 # End of file
