@@ -1,0 +1,25 @@
+# Epackage yellow pages -- Sources list for available packages
+#
+# Instructions:
+#
+# 1. Fork this project: https://github.com/jaalto/project--emacs-epackage-sources-list
+#    Read: http://help.github.com/forking/
+#
+# 2. Update this file, commit and push changes to your Git repository.
+#
+# 3. Send "Pull request".
+#    Read: http://help.github.com/pull-requests/
+#
+# Format: PACKAGE-NAME GIT-REPOSITORY [DESCRIPTION]
+
+crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
+gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
+gse-rename		git://github.com/jaalto/emacs-epkg--gse-rename rename files like you would edit text
+hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
+hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
+ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List: package URL database
+map-lines		git://github.com/jaalto/emacs-epkg--map-lines
+markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
+rst-mode		git://github.com/jaalto/emacs-epkg-rst-mode mode for viewing and editing reStructuredText-documents
+
+# End of file
