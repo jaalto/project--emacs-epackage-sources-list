@@ -11,6 +11,8 @@
 #    Read: http://help.github.com/pull-requests/
 #
 # Format: PACKAGE-NAME GIT-REPOSITORY [DESCRIPTION]
+#
+# PACKAE-NAME must match case-sensitive regexp: [a-z][a-z0-9-]+
 
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
