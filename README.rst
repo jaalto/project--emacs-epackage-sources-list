@@ -34,7 +34,7 @@ new epackage information, commit to your github account and send a
 
 The information collected here include:
 
-- PACKAGE-NAME -- from epackage/info::Package field.
+- PACKAGE-NAME -- from ``epackage/info::Package`` field.
 - GIT-URL      -- the public git repository URL.
 - DESCRIPTION  -- from 1st line from file ``epackage/info::Description``
 
