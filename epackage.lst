@@ -24,5 +24,6 @@ ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List: packag
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
 markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for viewing and editing reStructuredText-documents
+ell			git@github.com:jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 
 # End of file
