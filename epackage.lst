@@ -1,4 +1,5 @@
 # Epackage yellow pages -- Sources list for available packages
+# http://freshmeat.net/projects/emacs-epackage
 #
 # Instructions:
 #
@@ -10,7 +11,7 @@
 # 3. Send "Pull request".
 #    Read: http://help.github.com/pull-requests/
 #
-# Format: PACKAGE-NAME GIT-REPOSITORY [DESCRIPTION]
+# Format: PACKAGE-NAME GIT-REPOSITORY DESCRIPTION
 #
 # PACKAE-NAME must match case-sensitive regexp: [a-z][a-z0-9-]+
 
