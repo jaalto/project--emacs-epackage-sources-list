@@ -22,4 +22,24 @@ For more information see:
 * Epackage template files: https://github.com/jaalto/project--emacs-epackage-template
 * Epackage Yellow Pages: https://github.com/jaalto/project--emacs-epackage-sources-list
 
+How to contribute
+=================
+
+Fork this project and download the repository to your local disk. Add
+new epackage information, commit to your github account and send a
+*Pull request* through github. See these page:
+
+- http://help.github.com/forking/  (Forking a project)
+- http://help.github.com/pull-requests/ (Sending pull requests)
+
+The information collected here include:
+
+    PACKAGE-NAME (from epackage/info::Package field)
+    GIT-URL      (the public git repository URL)
+    DESCRIPTION  (from epackage/info::Description, the 1st line)
+
+After your changes have been been merged, update your copy::
+
+    git pull
+
 End of file
