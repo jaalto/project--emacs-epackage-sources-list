@@ -15,6 +15,7 @@ wraps Emacs extensions into containers is called epackage
 
 For more information see:
 
+* DELPS at Emacs Wiki: http://www.emacswiki.org/emacs/DELPS
 * Epackage main project hub: http://freshmeat.net/projects/emacs-epackage
 * Epackage extension for Emacs: http://freshmeat.net/project/epackage
 * Epackage manual: http://www.nongnu.org/emacs-epackage/manual
