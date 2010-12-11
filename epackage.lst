@@ -1,19 +1,45 @@
-# Epackage yellow pages -- Sources list for available packages
-# http://freshmeat.net/projects/emacs-epackage
+#   Copyright
 #
-# Instructions:
+#       Copyright (C) 2010 Jari Aalto <jari.aalto@cante.net>
 #
-# 1. Fork this project: https://github.com/jaalto/project--emacs-epackage-sources-list
-#    Read: http://help.github.com/forking/
+#   License
 #
-# 2. Update this file, commit and push changes to your Git repository.
+#       This material is free software; you can redistribute it and/or modify
+#       it under the terms of the GNU General Public License as published by
+#       the Free Software Foundation; either version 2 of the License, or
+#       (at your option) any later version.
 #
-# 3. Send "Pull request".
-#    Read: http://help.github.com/pull-requests/
+#       This program is distributed in the hope that it will be useful,
+#       but WITHOUT ANY WARRANTY; without even the implied warranty of
+#       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+#       GNU General Public License for more details.
 #
-# Format: PACKAGE-NAME GIT-REPOSITORY DESCRIPTION
+#       You should have received a copy of the GNU General Public License
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
-# PACKAE-NAME must match case-sensitive regexp: [a-z][a-z0-9-]+
+#   Description
+#
+#	Epackage yellow pages -- Sources list for available packages
+#
+#	Project homepage: http://freshmeat.net/projects/emacs-epackage
+#
+#   Instructions
+#
+#	1. Fork github project at
+#	   https://github.com/jaalto/project--emacs-epackage-sources-list
+#
+#	   Read: http://help.github.com/forking/
+#
+#	2. Update this file, commit and push changes to your Github repository.
+#
+#	3. Send "Pull request".
+#	    Read: http://help.github.com/pull-requests/
+#
+#   File Format
+#
+#	PACKAGE-NAME<spaces or tabs>GIT-REPOSITORY<spaces or tabs>DESCRIPTION
+#
+#	PACKAE-NAME must match case-sensitive regexp "[a-z][a-z0-9-]+"
 
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
