@@ -47,9 +47,8 @@ Copyright and License
 
 Copyright (C) 2010 Jari Aalto <jari.aalto@cante.net>
 
-The material in this project is free software; you can redistribute
-and/or modify program under the terms of GNU General Public license
-either version 2 of the License, or (at your option) any later
-version.
+This material is free; you can redistribute and/or modify it under
+the terms of GNU General Public license either version 2 of the
+License, or (at your option) any later version.
 
 End of file
