@@ -53,5 +53,6 @@ markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editin
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for viewing and editing reStructuredText-documents
 ell			git@github.com:jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 highlight-80-plus-mode	git@github.com:jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
+bbdb			git@github.com:jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 
 # End of file
