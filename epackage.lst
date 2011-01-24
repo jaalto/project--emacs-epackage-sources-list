@@ -54,5 +54,6 @@ rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for viewing and edit
 ell			git@github.com:jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 highlight-80-plus-mode	git@github.com:jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
 bbdb			git@github.com:jaalto/emacs-epkg--bbdb the insidious Big Brother Database
+linum			git@github.com:jaalto/emacs-epkg--linum display line numbers in the left margin
 
 # End of file
