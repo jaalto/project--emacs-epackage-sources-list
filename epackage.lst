@@ -56,5 +56,6 @@ highlight-80-plus-mode	git@github.com:jaalto/emacs-epkg--highlight-80-plus-mode 
 bbdb			git@github.com:jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 linum			git@github.com:jaalto/emacs-epkg--linum display line numbers in the left margin
 etop			git@github.com:jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
+xml-rpc			git@github.com:jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
 
 # End of file
