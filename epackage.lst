@@ -42,23 +42,22 @@
 #
 #	PACKAE-NAME must match case-sensitive regexp "[a-z][a-z0-9-]+"
 
+bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
+confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
+ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
+etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
+frame-cmds 		git://github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
 gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
 gse-rename		git://github.com/jaalto/emacs-epkg--gse-rename rename files like you would edit text
-hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
 hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
-ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List: package URL database
+hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
+highlight-80-plus-mode	git://github.com/jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
+linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
 markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for viewing and editing reStructuredText-documents
-ell			git@github.com:jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
-highlight-80-plus-mode	git@github.com:jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
-bbdb			git@github.com:jaalto/emacs-epkg--bbdb the insidious Big Brother Database
-linum			git@github.com:jaalto/emacs-epkg--linum display line numbers in the left margin
-etop			git@github.com:jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
-xml-rpc			git@github.com:jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
-confluence-mode 	git@github.com:jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
-frame-cmds 		git@github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
-zoom-frm 		git@github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
+xml-rpc			git://github.com/jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
+zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
 
 # End of file
