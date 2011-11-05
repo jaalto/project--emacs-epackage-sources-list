@@ -58,5 +58,6 @@ linum			git@github.com:jaalto/emacs-epkg--linum display line numbers in the left
 etop			git@github.com:jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
 xml-rpc			git@github.com:jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
 confluence-mode 	git@github.com:jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
+frame-cmds 		git@github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
 
 # End of file
