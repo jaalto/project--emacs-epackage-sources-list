@@ -48,6 +48,7 @@ crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
 frame-cmds 		git://github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
+frame-fns 		git://github.com:jaalto/emacs-epkg--frame-fns library of frame and window functions
 gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
 gse-rename		git://github.com/jaalto/emacs-epkg--gse-rename rename files like you would edit text
 hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
