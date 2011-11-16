@@ -45,6 +45,7 @@
 bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
+delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interacting with the Delicious API
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
 face-remap-plus		git://github.com/jaalto/emacs-epkg--face-remap-plus interactive font size manipulation functions
