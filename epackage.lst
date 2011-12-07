@@ -46,6 +46,7 @@ confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for in
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interacting with the Delicious API
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
+el-get			git://github.com/jaalto/emacs-epkg--el-get browse the Emacs Lisp List of available packages
 etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
 face-remap-plus		git://github.com/jaalto/emacs-epkg--face-remap-plus interactive font size manipulation functions
 frame-cmds 		git://github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
