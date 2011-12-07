@@ -1,6 +1,6 @@
 #   Copyright
 #
-#       Copyright (C) 2010 Jari Aalto <jari.aalto@cante.net>
+#       Copyright (C) 2010-2012 Jari Aalto <jari.aalto@cante.net>
 #
 #   License
 #
@@ -21,26 +21,25 @@
 #
 #	Epackage yellow pages -- Sources list for available Emacs epackages
 #
-#	Project homepage: http://freshmeat.net/projects/emacs-epackage
+#	Project homepage: http://freecode.com/projects/emacs-epackage
 #
 #   Instructions
 #
-#	1. Fork github project at
-#	   https://github.com/jaalto/project--emacs-epackage-sources-list
-#
+#	1. Fork Git VCS project directory (see Homepage),
 #	   Read: http://help.github.com/forking/
 #
 #	2. Update this file, "git commit -s" (sign) your changes, and push
-#	   to your Github repository.
+#	   it to your Github repository.
 #
 #	3. Send "Pull request".
 #	   Read: http://help.github.com/pull-requests/
 #
 #   File Format
 #
-#	PACKAGE-NAME<spaces or tabs>GIT-REPOSITORY<spaces or tabs>DESCRIPTION
+#	PACKAGE-NAME<spaces>GIT-REPOSITORY<space>DESCRIPTION
 #
-#	PACKAE-NAME must match case-sensitive regexp "[a-z][a-z0-9-]+"
+#	PACKAE-NAME must be all lowercase and match case-sensitive
+#       regexp "^[a-z][a-z0-9-]+$"
 
 bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
