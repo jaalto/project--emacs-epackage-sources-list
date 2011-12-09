@@ -49,18 +49,18 @@ ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of avai
 el-get			git://github.com/jaalto/emacs-epkg--el-get browse the Emacs Lisp List of available packages
 etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
 face-remap-plus		git://github.com/jaalto/emacs-epkg--face-remap-plus interactive font size manipulation functions
-frame-cmds 		git://github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
-frame-fns 		git://github.com:jaalto/emacs-epkg--frame-fns library of frame and window functions
 gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
 gse-rename		git://github.com/jaalto/emacs-epkg--gse-rename rename files like you would edit text
 hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
 hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
 highlight-80-plus-mode	git://github.com/jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
+lib-frame-cmds 		git://github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
+lib-frame-fns 		git://github.com:jaalto/emacs-epkg--frame-fns library of frame and window functions
+lib-xml-rpc		git://github.com/jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
 linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
 markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
-xml-rpc			git://github.com/jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
 zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
 
 # End of file
