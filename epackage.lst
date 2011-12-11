@@ -56,7 +56,8 @@ git-julliard		git://github.com/jaalto/emacs-epkg--git-julliard git interface by 
 hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
 hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
 highlight-80-plus-mode	git://github.com/jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
-lib-frame-fns 		git://github.com:jaalto/emacs-epkg--frame-fns library of frame and window functions
+lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of frame and window functions
+lib-hexrgb 		git://github.com:jaalto/emacs-epkg--lib-hexrgb library of RGB color manipulation functions
 lib-xml-rpc		git://github.com/jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
 linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
