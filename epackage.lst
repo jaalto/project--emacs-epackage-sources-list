@@ -59,7 +59,7 @@ highlight-80-plus-mode	git://github.com/jaalto/emacs-epkg--highlight-80-plus-mod
 jabber-client 		git://github.com:jaalto/emacs-epkg--jabber-client client for Jabber XMPP protocol
 lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of frame and window functions
 lib-hexrgb 		git://github.com:jaalto/emacs-epkg--lib-hexrgb library of RGB color manipulation functions
-lib-xml-rpc		git://github.com/jaalto/emacs-epkg--xml-rpc library for XML-RPC is remote procedure calls over HTTP
+lib-xml-rpc		git://github.com/jaalto/emacs-epkg--xml-rpc library of remote procedure calls over HTTP
 linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
 markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
