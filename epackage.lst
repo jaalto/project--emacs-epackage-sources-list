@@ -41,6 +41,7 @@
 #	PACKAE-NAME must be all lowercase and match case-sensitive
 #       regexp "^[a-z][a-z0-9-]+$"
 
+asciidoc-mode		git://github.com/jaalto/emacs-epkg--asciidoc-mode mode to edit Asciidoc markup files
 bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
