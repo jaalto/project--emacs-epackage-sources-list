@@ -46,6 +46,7 @@ bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Databa
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interacting with the Delicious API
+egit-mode		git://github.com/jaalto/emacs-epkg--egit-mode major mode for git commit history ala gitk
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 el-get			git://github.com/jaalto/emacs-epkg--el-get browse the Emacs Lisp List of available packages
 etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
