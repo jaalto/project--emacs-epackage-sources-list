@@ -71,6 +71,7 @@ markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editin
 rdoc-mode		git://github.com/jaalto/emacs-epkg--rdoc-mode major mode for editing Ruby source code documentation markup
 ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
+yasnippet 		git://github.com:jaalto/emacs-epkg--yasnippet yet another snippet template system
 zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
 
 # End of file
