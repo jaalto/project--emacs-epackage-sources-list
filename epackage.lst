@@ -65,6 +65,7 @@ lib-date-calc		git://github.com:jaalto/emacs-epkg--lib-date-calc library of date
 lib-dropdown-list 	git://github.com:jaalto/emacs-epkg--lib-dropdown-list library of dropdown menu functions
 lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of frame and window functions
 lib-hexrgb 		git://github.com:jaalto/emacs-epkg--lib-hexrgb library of RGB color manipulation functions
+lib-strptime		git://github.com/jaalto/emacs-epkg--lib-strptime library of POSIX date and time function strptime()
 lib-xml-rpc		git://github.com/jaalto/emacs-epkg--xml-rpc library of remote procedure calls over HTTP
 linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
