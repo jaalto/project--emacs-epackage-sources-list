@@ -61,6 +61,7 @@ hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show region
 highlight-80-plus-mode	git://github.com/jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
 htmlize			git://github.com/jaalto/emacs-epkg--htmlize convert fontification into HTML
 jabber-client 		git://github.com:jaalto/emacs-epkg--jabber-client client for Jabber XMPP protocol
+killer			git://github.com:jaalto/emacs-epkg--killer interactive functions to kill and delete text
 lib-date-calc		git://github.com:jaalto/emacs-epkg--lib-date-calc library of date calculation and parsing functions
 lib-dropdown-list 	git://github.com:jaalto/emacs-epkg--lib-dropdown-list library of dropdown menu functions
 lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of frame and window functions
