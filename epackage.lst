@@ -45,6 +45,7 @@ asciidoc-menu		git://github.com/jaalto/emacs-epkg--asciidoc-menu mode to edit As
 bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
+cssh-mode		git://github.com/jaalto/emacs-epkg--cssh-mode major mode for cssh(1) Cluster SSH command
 delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interacting with the Delicious API
 egit-mode		git://github.com/jaalto/emacs-epkg--egit-mode major mode for git commit history ala gitk
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
