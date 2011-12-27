@@ -79,6 +79,7 @@ rdoc-mode		git://github.com/jaalto/emacs-epkg--rdoc-mode major mode for editing 
 ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
 twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
+wtf			git://github.com:jaalto/emacs-epkg--wtf look up conversational and computing acronyms
 yasnippet 		git://github.com:jaalto/emacs-epkg--yasnippet yet another snippet template system
 zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
 
