@@ -43,6 +43,7 @@
 
 asciidoc-menu		git://github.com/jaalto/emacs-epkg--asciidoc-menu mode to edit Asciidoc markup files
 bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
+c-eldoc			git://github.com/jaalto/emacs-epkg--c-eldoc helpful description of the arguments to C functions
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 cssh-mode		git://github.com/jaalto/emacs-epkg--cssh-mode major mode for cssh(1) Cluster SSH command
