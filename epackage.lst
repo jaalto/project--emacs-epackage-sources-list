@@ -79,6 +79,7 @@ package			git://github.com/jaalto/emacs-epkg--package Emacs lisp package arvhive
 rdoc-mode		git://github.com/jaalto/emacs-epkg--rdoc-mode major mode for editing Ruby source code documentation markup
 ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
+smart-tab		git://github.com/jaalto/emacs-epkg--smart-tab intelligent tab completion and indentation
 search-prop		git://github.com/jaalto/emacs-epkg--search-prop search forward and backward for properties
 twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
 wtf			git://github.com:jaalto/emacs-epkg--wtf look up conversational and computing acronyms
