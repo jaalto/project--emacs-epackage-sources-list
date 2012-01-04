@@ -43,6 +43,7 @@
 
 adoc-mode		git://github.com/jaalto/emacs-epkg--adoc-mode major-mode for editing AsciiDoc markup files
 asciidoc-menu		git://github.com/jaalto/emacs-epkg--asciidoc-menu menu for editing Asciidoc markup files
+auto-compile		git://github.com/jaalto/emacs-epkg--auto-compile automatically compile Emacs Lisp files
 bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
 c-eldoc			git://github.com/jaalto/emacs-epkg--c-eldoc helpful description of the arguments to C functions
 confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
