@@ -77,7 +77,8 @@ linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the le
 map-lines		git://github.com/jaalto/emacs-epkg--map-lines
 markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
 multi-term		git://github.com/jaalto/emacs-epkg--multi-term multiple terminal management
-package			git://github.com/jaalto/emacs-epkg--package Emacs lisp package arvhive (ELPA)
+psvn 			git://github.com/jaalto/emacs-epkg--psvn client interface to Subversion (SVN) version control
+package			git://github.com/jaalto/emacs-epkg--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
 rdoc-mode		git://github.com/jaalto/emacs-epkg--rdoc-mode major mode for editing Ruby source code documentation markup
 ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
