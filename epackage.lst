@@ -74,6 +74,7 @@ lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of fra
 lib-header-button	git://github.com:jaalto/emacs-epkg--lib-header-button library of clickable buttons in header lines
 lib-hexrgb 		git://github.com:jaalto/emacs-epkg--lib-hexrgb library of RGB color manipulation functions
 lib-map-progress	git://github.com:jaalto/emacs-epkg--lib-map-progress library of mapping macros that report progress
+lib-read-char-spec	git://github.com/jaalto/emacs-epkg--lib-read-char-spec library of generalized y-or-n-p function
 lib-strptime		git://github.com/jaalto/emacs-epkg--lib-strptime library of POSIX date and time function strptime()
 lib-xml-rpc		git://github.com/jaalto/emacs-epkg--lib-xml-rpc library of remote procedure calls over HTTP
 linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
