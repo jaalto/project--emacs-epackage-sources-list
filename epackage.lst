@@ -64,7 +64,6 @@ gse-rename		git://github.com/jaalto/emacs-epkg--gse-rename rename files like you
 git-julliard		git://github.com/jaalto/emacs-epkg--git-julliard git interface by Alexandre Julliard
 hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
 hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
-highlight-80-plus-mode	git://github.com/jaalto/emacs-epkg--highlight-80-plus-mode highlight characters beyond column 80
 htmlize			git://github.com/jaalto/emacs-epkg--htmlize convert fontification into HTML
 jabber-client 		git://github.com:jaalto/emacs-epkg--jabber-client client for Jabber XMPP protocol
 killer			git://github.com:jaalto/emacs-epkg--killer interactive functions to kill and delete text
