@@ -51,6 +51,7 @@ code-doc-mode		git://github.com/jaalto/emacs-epkg--code-doc-mode convenient edit
 crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
 cssh-mode		git://github.com/jaalto/emacs-epkg--cssh-mode major mode for cssh(1) Cluster SSH command
 delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interacting with the Delicious API
+egg			git://github.com/jaalto/emacs-epkg--egg git interface fork of magit
 edit-list		git://github.com/jaalto/emacs-epkg--edit-list interactively edit a list variable easily
 egit-mode		git://github.com/jaalto/emacs-epkg--egit-mode major mode for git commit history ala gitk
 ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
