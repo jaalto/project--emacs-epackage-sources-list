@@ -71,6 +71,7 @@ killer			git://github.com:jaalto/emacs-epkg--killer interactive functions to kil
 lib-date-calc		git://github.com:jaalto/emacs-epkg--lib-date-calc library of date calculation and parsing functions
 lib-dropdown-list 	git://github.com:jaalto/emacs-epkg--lib-dropdown-list library of dropdown menu functions
 lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of frame and window functions
+lib-header-button	git://github.com:jaalto/emacs-epkg--lib-header-button library of clickable buttons in header lines
 lib-hexrgb 		git://github.com:jaalto/emacs-epkg--lib-hexrgb library of RGB color manipulation functions
 lib-strptime		git://github.com/jaalto/emacs-epkg--lib-strptime library of POSIX date and time function strptime()
 lib-xml-rpc		git://github.com/jaalto/emacs-epkg--lib-xml-rpc library of remote procedure calls over HTTP
