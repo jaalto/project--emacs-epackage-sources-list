@@ -84,6 +84,7 @@ multi-term		git://github.com/jaalto/emacs-epkg--multi-term multiple terminal man
 psvn 			git://github.com/jaalto/emacs-epkg--psvn client interface to Subversion (SVN) version control
 pabbrev-mode		git://github.com/jaalto/emacs-epkg--pabbrev-mode mode for TAB key to complete items (predictive abbreviation)
 package			git://github.com/jaalto/emacs-epkg--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
+palette			git://github.com/jaalto/emacs-epkg--palette color palette for to edit using RGB, HSV and color names (X only)
 rdoc-mode		git://github.com/jaalto/emacs-epkg--rdoc-mode major mode for editing Ruby source code documentation markup
 ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
