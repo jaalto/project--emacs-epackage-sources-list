@@ -92,6 +92,7 @@ rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst re
 smart-tab		git://github.com/jaalto/emacs-epkg--smart-tab intelligent tab completion and indentation
 search-prop		git://github.com/jaalto/emacs-epkg--search-prop search forward and backward for properties
 twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
+tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
 wtf			git://github.com:jaalto/emacs-epkg--wtf look up conversational and computing acronyms
 yasnippet 		git://github.com:jaalto/emacs-epkg--yasnippet yet another snippet template system
 el-autoyas		git://github.com:jaalto/emacs-epkg--el-autoyas yasnippet extension for creating Emacs-Lisp snippets automatically
