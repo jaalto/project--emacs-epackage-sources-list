@@ -55,8 +55,9 @@ delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interactin
 egg			git://github.com/jaalto/emacs-epkg--egg git interface fork of magit
 edit-list		git://github.com/jaalto/emacs-epkg--edit-list interactively edit a list variable easily
 egit-mode		git://github.com/jaalto/emacs-epkg--egit-mode major mode for git commit history ala gitk
-ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
+el-autoyas		git://github.com:jaalto/emacs-epkg--el-autoyas yasnippet extension for creating Emacs-Lisp snippets automatically
 el-get			git://github.com/jaalto/emacs-epkg--el-get browse the Emacs Lisp List of available packages
+ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
 escreen			git://github.com/jaalto/emacs-epkg--escreen emulation of screen(1) window configuration save/restore
 etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
 face-remap-plus		git://github.com/jaalto/emacs-epkg--face-remap-plus interactive font size manipulation functions
@@ -93,9 +94,9 @@ smart-tab		git://github.com/jaalto/emacs-epkg--smart-tab intelligent tab complet
 search-prop		git://github.com/jaalto/emacs-epkg--search-prop search forward and backward for properties
 twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
 tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
+vline			git://github.com:jaalto/emacs-epkg--vline minor mode to show vertical line to highligh column
 wtf			git://github.com:jaalto/emacs-epkg--wtf look up conversational and computing acronyms
 yasnippet 		git://github.com:jaalto/emacs-epkg--yasnippet yet another snippet template system
-el-autoyas		git://github.com:jaalto/emacs-epkg--el-autoyas yasnippet extension for creating Emacs-Lisp snippets automatically
 zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
 
 # End of file
