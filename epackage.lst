@@ -94,6 +94,7 @@ ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing 
 rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
 smart-tab		git://github.com/jaalto/emacs-epkg--smart-tab intelligent tab completion and indentation
 search-prop		git://github.com/jaalto/emacs-epkg--search-prop search forward and backward for properties
+tabbar-mode		git://github.com/jaalto/emacs-epkg--tabbar-mode mode to display a tab bar in the header line
 twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
 tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
 vline			git://github.com:jaalto/emacs-epkg--vline minor mode to show vertical line to highligh column
