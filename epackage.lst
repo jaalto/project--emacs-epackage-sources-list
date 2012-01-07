@@ -1,6 +1,6 @@
 #   Copyright
 #
-#       Copyright (C) 2010-2011 Jari Aalto <jari.aalto@cante.net>
+#       Copyright (C) 2010-2012 Jari Aalto <jari.aalto@cante.net>
 #
 #   License
 #
@@ -63,6 +63,7 @@ escreen			git://github.com/jaalto/emacs-epackage--escreen emulation of screen(1)
 etop			git://github.com/jaalto/emacs-epackage--etop run top(1) listing in Emacs buffer
 face-remap-plus		git://github.com/jaalto/emacs-epackage--face-remap-plus interactive font size manipulation functions
 frame-cmds 		git://github.com:jaalto/emacs-epackage--frame-cmds library of interactive frame and window commands
+g-client		git://github.com/jaalto/emacs-epackage--g-client Google Client e.g. to access Google Calendar
 gse-number-rect		git://github.com/jaalto/emacs-epackage--gse-number-rect enhance rect.el by adding numering rectangles
 gse-rename		git://github.com/jaalto/emacs-epackage--gse-rename rename files like you would edit text
 git-julliard		git://github.com/jaalto/emacs-epackage--git-julliard git interface by Alexandre Julliard
