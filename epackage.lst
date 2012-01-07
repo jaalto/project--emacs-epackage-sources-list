@@ -98,6 +98,7 @@ tabbar-mode		git://github.com/jaalto/emacs-epkg--tabbar-mode mode to display a t
 twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
 tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
 vline			git://github.com:jaalto/emacs-epkg--vline minor mode to show vertical line to highligh column
+wikipedia-mode		git://github.com:jaalto/emacs-epkg--wikipedia-mode major mode for editing Wikipedia articles off-line
 wtf			git://github.com:jaalto/emacs-epkg--wtf look up conversational and computing acronyms
 yasnippet 		git://github.com:jaalto/emacs-epkg--yasnippet yet another snippet template system
 zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
