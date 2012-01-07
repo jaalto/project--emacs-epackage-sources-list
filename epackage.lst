@@ -41,66 +41,72 @@
 #	PACKAE-NAME must be all lowercase and match case-sensitive
 #       regexp "^[a-z][a-z0-9-]+$"
 
-adoc-mode		git://github.com/jaalto/emacs-epkg--adoc-mode major-mode for editing AsciiDoc markup files
-asciidoc-el		git://github.com/jaalto/emacs-epkg--asciidoc-el menu for editing Asciidoc markup files
-auto-compile		git://github.com/jaalto/emacs-epkg--auto-compile automatically compile Emacs Lisp files
-bbdb			git://github.com/jaalto/emacs-epkg--bbdb the insidious Big Brother Database
-col-highlight		git://github.com/jaalto/emacs-epkg--col-highlight highlight the current column (etends vline.el)
-c-eldoc			git://github.com/jaalto/emacs-epkg--c-eldoc helpful description of the arguments to C functions
-confluence-mode 	git://github.com/jaalto/emacs-epkg--confluence-mode mode for interacting with confluence wiki
-code-doc-mode		git://github.com/jaalto/emacs-epkg--code-doc-mode convenient editing of dockblock comment in-code
-crypt			git://github.com/jaalto/emacs-epkg--crypt encryption support
-cssh-mode		git://github.com/jaalto/emacs-epkg--cssh-mode major mode for cssh(1) Cluster SSH command
-delicious		git://github.com/jaalto/emacs-epkg--delicious commands for interacting with the Delicious API
-egg			git://github.com/jaalto/emacs-epkg--egg git interface fork of magit
-edit-list		git://github.com/jaalto/emacs-epkg--edit-list interactively edit a list variable easily
-egit-mode		git://github.com/jaalto/emacs-epkg--egit-mode major mode for git commit history ala gitk
-el-autoyas		git://github.com:jaalto/emacs-epkg--el-autoyas yasnippet extension for creating Emacs-Lisp snippets automatically
-el-get			git://github.com/jaalto/emacs-epkg--el-get browse the Emacs Lisp List of available packages
-ell			git://github.com/jaalto/emacs-epkg--ell browse the Emacs Lisp List of available packages
-escreen			git://github.com/jaalto/emacs-epkg--escreen emulation of screen(1) window configuration save/restore
-etop			git://github.com/jaalto/emacs-epkg--etop run top(1) listing in Emacs buffer
-face-remap-plus		git://github.com/jaalto/emacs-epkg--face-remap-plus interactive font size manipulation functions
-frame-cmds 		git://github.com:jaalto/emacs-epkg--frame-cmds library of interactive frame and window commands
-gse-number-rect		git://github.com/jaalto/emacs-epkg--gse-number-rect enhance rect.el by adding numering rectangles
-gse-rename		git://github.com/jaalto/emacs-epkg--gse-rename rename files like you would edit text
-git-julliard		git://github.com/jaalto/emacs-epkg--git-julliard git interface by Alexandre Julliard
-hide-lines		git://github.com/jaalto/emacs-epkg--hide-lines hide or preserve all matching lines in buffer
-hide-region		git://github.com/jaalto/emacs-epkg--hide-region hide or show regions like using kill-ring
-htmlize			git://github.com/jaalto/emacs-epkg--htmlize convert fontification into HTML
-jabber-client 		git://github.com:jaalto/emacs-epkg--jabber-client client for Jabber XMPP protocol
-killer			git://github.com:jaalto/emacs-epkg--killer interactive functions to kill and delete text
-lib-date-calc		git://github.com:jaalto/emacs-epkg--lib-date-calc library of date calculation and parsing functions
-lib-dropdown-list 	git://github.com:jaalto/emacs-epkg--lib-dropdown-list library of dropdown menu functions
-lib-frame-fns 		git://github.com:jaalto/emacs-epkg--lib-frame-fns library of frame and window functions
-libf-url 		git://github.com:jaalto/emacs-epkg--lib-furl
-lib-header-button	git://github.com:jaalto/emacs-epkg--lib-header-button library of clickable buttons in header lines
-lib-hexrgb 		git://github.com:jaalto/emacs-epkg--lib-hexrgb library of RGB color manipulation functions
-lib-map-progress	git://github.com:jaalto/emacs-epkg--lib-map-progress library of mapping macros that report progress
-lib-read-char-spec	git://github.com/jaalto/emacs-epkg--lib-read-char-spec library of generalized y-or-n-p function
-lib-strptime		git://github.com/jaalto/emacs-epkg--lib-strptime library of POSIX date and time function strptime()
-lib-xml-rpc		git://github.com/jaalto/emacs-epkg--lib-xml-rpc library of remote procedure calls over HTTP
-linum			git://github.com/jaalto/emacs-epkg--linum display line numbers in the left margin
-map-lines		git://github.com/jaalto/emacs-epkg--map-lines
-markdown-mode		git://github.com/jaalto/emacs-epkg--markdown-mode mode for editing *.md markdown markup files
-marmalade		git://github.com/jaalto/emacs-epkg--marmalade interface for the ELPA/marmalade package server
-multi-term		git://github.com/jaalto/emacs-epkg--multi-term multiple terminal management
-psvn 			git://github.com/jaalto/emacs-epkg--psvn client interface to Subversion (SVN) version control
-pabbrev-mode		git://github.com/jaalto/emacs-epkg--pabbrev-mode mode for TAB key to complete items (predictive abbreviation)
-package			git://github.com/jaalto/emacs-epkg--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
-palette			git://github.com/jaalto/emacs-epkg--palette color palette for to edit using RGB, HSV and color names (X only)
-rdoc-mode		git://github.com/jaalto/emacs-epkg--rdoc-mode major mode for editing Ruby source code documentation markup
-ruby-mode		git://github.com/jaalto/emacs-epkg--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
-rst-mode		git://github.com/jaalto/emacs-epkg--rst-mode mode for editing *.rst reStructuredText markup files
-smart-tab		git://github.com/jaalto/emacs-epkg--smart-tab intelligent tab completion and indentation
-search-prop		git://github.com/jaalto/emacs-epkg--search-prop search forward and backward for properties
-tabbar-mode		git://github.com/jaalto/emacs-epkg--tabbar-mode mode to display a tab bar in the header line
-twittering-mode		git://github.com/jaalto/emacs-epkg--twittering-mode major mode and client for Twitter
+adoc-mode		git://github.com/jaalto/emacs-epackage--adoc-mode major-mode for editing AsciiDoc markup files
+asciidoc-el		git://github.com/jaalto/emacs-epackage--asciidoc-el menu for editing Asciidoc markup files
+auto-compile		git://github.com/jaalto/emacs-epackage--auto-compile automatically compile Emacs Lisp files
+bbdb			git://github.com/jaalto/emacs-epackage--bbdb the insidious Big Brother Database
+c-eldoc			git://github.com/jaalto/emacs-epackage--c-eldoc helpful description of the arguments to C functions
+col-highlight		git://github.com/jaalto/emacs-epackage--col-highlight highlight the current column (etends vline.el)
+confluence-mode 	git://github.com/jaalto/emacs-epackage--confluence-mode mode for interacting with confluence wiki
+code-doc-mode		git://github.com/jaalto/emacs-epackage--code-doc-mode convenient editing of dockblock comment in-code
+crypt			git://github.com/jaalto/emacs-epackage--crypt encryption support
+cssh-mode		git://github.com/jaalto/emacs-epackage--cssh-mode major mode for cssh(1) Cluster SSH command
+delicious		git://github.com/jaalto/emacs-epackage--delicious commands for interacting with the Delicious API
+ditz			git://github.com/jaalto/emacs-epackage--ditz client interface to Ditz issue tracking system
+egg			git://github.com/jaalto/emacs-epackage--egg git interface fork of magit
+edit-list		git://github.com/jaalto/emacs-epackage--edit-list interactively edit a list variable easily
+egit-mode		git://github.com/jaalto/emacs-epackage--egit-mode major mode for git commit history ala gitk
+el-autoyas		git://github.com:jaalto/emacs-epackage--el-autoyas yasnippet extension for creating Emacs-Lisp snippets automatically
+el-get			git://github.com/jaalto/emacs-epackage--el-get browse the Emacs Lisp List of available packages
+ell			git://github.com/jaalto/emacs-epackage--ell browse the Emacs Lisp List of available packages
+escreen			git://github.com/jaalto/emacs-epackage--escreen emulation of screen(1) window configuration save/restore
+etop			git://github.com/jaalto/emacs-epackage--etop run top(1) listing in Emacs buffer
+face-remap-plus		git://github.com/jaalto/emacs-epackage--face-remap-plus interactive font size manipulation functions
+frame-cmds 		git://github.com:jaalto/emacs-epackage--frame-cmds library of interactive frame and window commands
+gse-number-rect		git://github.com/jaalto/emacs-epackage--gse-number-rect enhance rect.el by adding numering rectangles
+gse-rename		git://github.com/jaalto/emacs-epackage--gse-rename rename files like you would edit text
+git-julliard		git://github.com/jaalto/emacs-epackage--git-julliard git interface by Alexandre Julliard
+hide-lines		git://github.com/jaalto/emacs-epackage--hide-lines hide or preserve all matching lines in buffer
+hide-region		git://github.com/jaalto/emacs-epackage--hide-region hide or show regions like using kill-ring
+htmlize			git://github.com/jaalto/emacs-epackage--htmlize convert fontification into HTML
+jabber-client 		git://github.com:jaalto/emacs-epackage--jabber-client client for Jabber XMPP protocol
+killer			git://github.com:jaalto/emacs-epackage--killer interactive functions to kill and delete text
+lib-date-calc		git://github.com:jaalto/emacs-epackage--lib-date-calc library of date calculation and parsing functions
+lib-dropdown-list 	git://github.com:jaalto/emacs-epackage--lib-dropdown-list library of dropdown menu functions
+lib-frame-fns 		git://github.com:jaalto/emacs-epackage--lib-frame-fns library of frame and window functions
+libf-url 		git://github.com:jaalto/emacs-epackage--lib-furl
+lib-header-button	git://github.com:jaalto/emacs-epackage--lib-header-button library of clickable buttons in header lines
+lib-hexrgb 		git://github.com:jaalto/emacs-epackage--lib-hexrgb library of RGB color manipulation functions
+lib-map-progress	git://github.com:jaalto/emacs-epackage--lib-map-progress library of mapping macros that report progress
+lib-read-char-spec	git://github.com/jaalto/emacs-epackage--lib-read-char-spec library of generalized y-or-n-p function
+lib-strptime		git://github.com/jaalto/emacs-epackage--lib-strptime library of POSIX date and time function strptime()
+lib-xml-rpc		git://github.com/jaalto/emacs-epackage--lib-xml-rpc library of remote procedure calls over HTTP
+linum			git://github.com/jaalto/emacs-epackage--linum display line numbers in the left margin
+magit			git://github.com/jaalto/emacs-epackage--magit client interface for Git
+map-lines		git://github.com/jaalto/emacs-epackage--map-lines map a command over many lines
+markdown-mode		git://github.com/jaalto/emacs-epackage--markdown-mode mode for editing *.md markdown markup files
+marmalade		git://github.com/jaalto/emacs-epackage--marmalade interface for the ELPA/marmalade package server
+mediawiki-mode		git://github.com/jaalto/emacs-epackage--mediawiki-mode major mode for editing MediaWiki pages (wikipedia)
+multi-term		git://github.com/jaalto/emacs-epackage--multi-term multiple terminal management
+psvn 			git://github.com/jaalto/emacs-epackage--psvn client interface to Subversion (SVN) version control
+pabbrev-mode		git://github.com/jaalto/emacs-epackage--pabbrev-mode mode for TAB key to complete items (predictive abbreviation)
+package			git://github.com/jaalto/emacs-epackage--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
+palette			git://github.com/jaalto/emacs-epackage--palette color palette for to edit using RGB, HSV and color names (X only)
+pastebin		git://github.com/jaalto/emacs-epackage--pastebin interface to the www.pastebin.com webservice
+quilt			git://github.com/jaalto/emacs-epackage--quilt interactive commands to quilt(1) program
+rdoc-mode		git://github.com/jaalto/emacs-epackage--rdoc-mode major mode for editing Ruby source code documentation markup
+ruby-mode		git://github.com/jaalto/emacs-epackage--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
+rst-mode		git://github.com/jaalto/emacs-epackage--rst-mode mode for editing *.rst reStructuredText markup files
+smart-tab		git://github.com/jaalto/emacs-epackage--smart-tab intelligent tab completion and indentation
+search-prop		git://github.com/jaalto/emacs-epackage--search-prop search forward and backward for properties
+tabbar-mode		git://github.com/jaalto/emacs-epackage--tabbar-mode mode to display a tab bar in the header line
+twittering-mode		git://github.com/jaalto/emacs-epackage--twittering-mode major mode and client for Twitter
 tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
-vline			git://github.com:jaalto/emacs-epkg--vline minor mode to show vertical line to highligh column
-wikipedia-mode		git://github.com:jaalto/emacs-epkg--wikipedia-mode major mode for editing Wikipedia articles off-line
-wtf			git://github.com:jaalto/emacs-epkg--wtf look up conversational and computing acronyms
-yasnippet 		git://github.com:jaalto/emacs-epkg--yasnippet yet another snippet template system
-zoom-frm 		git://github.com:jaalto/emacs-epkg--zoom-frm commands to zoom frame font size with mouse and keyboard
+vline			git://github.com:jaalto/emacs-epackage--vline minor mode to show vertical line to highligh column
+wikipedia-mode		git://github.com:jaalto/emacs-epackage--wikipedia-mode major mode for editing Wikipedia articles off-line
+wtf			git://github.com:jaalto/emacs-epackage--wtf look up conversational and computing acronyms
+yas-jit 		git://github.com:jaalto/emacs-epackage--yas-jit load Yasnippets on demand (makes start up faster)
+yasnippet 		git://github.com:jaalto/emacs-epackage--yasnippet yet another snippet template system
+zoom-frm 		git://github.com:jaalto/emacs-epackage--zoom-frm commands to zoom frame font size with mouse and keyboard
 
 # End of file
