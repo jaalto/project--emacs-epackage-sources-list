@@ -94,6 +94,7 @@ pabbrev-mode		git://github.com/jaalto/emacs-epackage--pabbrev-mode mode for TAB 
 package			git://github.com/jaalto/emacs-epackage--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
 palette			git://github.com/jaalto/emacs-epackage--palette color palette for to edit using RGB, HSV and color names (X only)
 pastebin		git://github.com/jaalto/emacs-epackage--pastebin interface to the www.pastebin.com webservice
+php-mode		git://github.com/jaalto/emacs-epackage--php-mode major mode for editing PHP files
 quilt			git://github.com/jaalto/emacs-epackage--quilt interactive commands to quilt(1) program
 rdoc-mode		git://github.com/jaalto/emacs-epackage--rdoc-mode major mode for editing Ruby source code documentation markup
 ruby-mode		git://github.com/jaalto/emacs-epackage--ruby-mode major mode for editing Ruby files (obsolete in 23.x)
