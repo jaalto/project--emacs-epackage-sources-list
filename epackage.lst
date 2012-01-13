@@ -89,6 +89,8 @@ markdown-mode		git://github.com/jaalto/emacs-epackage--markdown-mode mode for ed
 marmalade		git://github.com/jaalto/emacs-epackage--marmalade interface for the ELPA/marmalade package server
 mediawiki-mode		git://github.com/jaalto/emacs-epackage--mediawiki-mode major mode for editing MediaWiki pages (wikipedia)
 multi-term		git://github.com/jaalto/emacs-epackage--multi-term multiple terminal management
+mutt-mode		git://github.com/jaalto/emacs-epackage--mutt-mode major mode for editing messages from mutt(1) MUA.
+
 psvn 			git://github.com/jaalto/emacs-epackage--psvn client interface to Subversion (SVN) version control
 pabbrev-mode		git://github.com/jaalto/emacs-epackage--pabbrev-mode mode for TAB key to complete items (predictive abbreviation)
 package			git://github.com/jaalto/emacs-epackage--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
