@@ -75,7 +75,7 @@ killer			git://github.com:jaalto/emacs-epackage--killer interactive functions to
 lib-date-calc		git://github.com:jaalto/emacs-epackage--lib-date-calc library of date calculation and parsing functions
 lib-dropdown-list 	git://github.com:jaalto/emacs-epackage--lib-dropdown-list library of dropdown menu functions
 lib-frame-fns 		git://github.com:jaalto/emacs-epackage--lib-frame-fns library of frame and window functions
-libf-url 		git://github.com:jaalto/emacs-epackage--lib-furl
+lib-furl 		git://github.com:jaalto/emacs-epackage--lib-furl library of top level functions to url.el
 lib-header-button	git://github.com:jaalto/emacs-epackage--lib-header-button library of clickable buttons in header lines
 lib-hexrgb 		git://github.com:jaalto/emacs-epackage--lib-hexrgb library of RGB color manipulation functions
 lib-map-progress	git://github.com:jaalto/emacs-epackage--lib-map-progress library of mapping macros that report progress
