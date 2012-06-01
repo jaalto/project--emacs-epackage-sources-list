@@ -38,7 +38,7 @@
 #
 #	PACKAGE-NAME<spaces>GIT-REPOSITORY<space>DESCRIPTION
 #
-#	PACKAE-NAME must be all lowercase and match case-sensitive
+#	PACKAGE-NAME must be all lowercase and match case-sensitive
 #       regexp "^[a-z][a-z0-9-]+$"
 
 adoc-mode		git://github.com/jaalto/emacs-epackage--adoc-mode major-mode for editing AsciiDoc markup files
@@ -90,7 +90,6 @@ marmalade		git://github.com/jaalto/emacs-epackage--marmalade interface for the E
 mediawiki-mode		git://github.com/jaalto/emacs-epackage--mediawiki-mode major mode for editing MediaWiki pages (wikipedia)
 multi-term		git://github.com/jaalto/emacs-epackage--multi-term multiple terminal management
 mutt-mode		git://github.com/jaalto/emacs-epackage--mutt-mode major mode for editing messages from mutt(1) MUA.
-
 psvn 			git://github.com/jaalto/emacs-epackage--psvn client interface to Subversion (SVN) version control
 pabbrev-mode		git://github.com/jaalto/emacs-epackage--pabbrev-mode mode for TAB key to complete items (predictive abbreviation)
 package			git://github.com/jaalto/emacs-epackage--package Emacs lisp package arvhive, old version (<Emacs 24 ELPA)
