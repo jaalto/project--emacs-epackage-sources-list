@@ -105,6 +105,7 @@ search-prop		git://github.com/jaalto/emacs-epackage--search-prop search forward 
 tabbar-mode		git://github.com/jaalto/emacs-epackage--tabbar-mode mode to display a tab bar in the header line
 twittering-mode		git://github.com/jaalto/emacs-epackage--twittering-mode major mode and client for Twitter
 tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
+undo-tree-mode		git@github.com:jaalto/emacs-epackage--undo-tree-mode.git treat undo history as a tree
 vline			git://github.com:jaalto/emacs-epackage--vline minor mode to show vertical line to highligh column
 wikipedia-mode		git://github.com:jaalto/emacs-epackage--wikipedia-mode major mode for editing Wikipedia articles off-line
 wtf			git://github.com:jaalto/emacs-epackage--wtf look up conversational and computing acronyms
