@@ -26,20 +26,22 @@
 #   Instructions
 #
 #	1. Fork Git VCS project directory (see Homepage),
-#	   Read: http://help.github.com/forking/
+#	   Read: https://help.github.com/articles/fork-a-repo
 #
 #	2. Update this file, "git commit -s" (sign) your changes, and push
 #	   it to your Github repository.
 #
 #	3. Send "Pull request".
-#	   Read: http://help.github.com/pull-requests/
+#	   Read: https://help.github.com/articles/using-pull-requests
 #
 #   File Format
 #
 #	PACKAGE-NAME<spaces>GIT-REPOSITORY<space>DESCRIPTION
 #
-#	PACKAGE-NAME must be all lowercase and match case-sensitive
-#       regexp "^[a-z][a-z0-9-]+$"
+#	- PACKAGE-NAME must be all lowercase and match case-sensitive
+#         regexp "^[a-z][a-z0-9-]+$"
+#       - GIT-REPOSITORY is URL to Git sources
+#       - DESCRIPTION is all lowercase one line description for a package
 
 adoc-mode		git://github.com/jaalto/emacs-epackage--adoc-mode major-mode for editing AsciiDoc markup files
 asciidoc-		git://github.com/jaalto/emacs-epackage--asciidoc menu for editing Asciidoc markup files
