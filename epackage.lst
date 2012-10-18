@@ -42,7 +42,7 @@
 #       regexp "^[a-z][a-z0-9-]+$"
 
 adoc-mode		git://github.com/jaalto/emacs-epackage--adoc-mode major-mode for editing AsciiDoc markup files
-asciidoc-el		git://github.com/jaalto/emacs-epackage--asciidoc-el menu for editing Asciidoc markup files
+asciidoc-		git://github.com/jaalto/emacs-epackage--asciidoc menu for editing Asciidoc markup files
 auto-compile		git://github.com/jaalto/emacs-epackage--auto-compile automatically compile Emacs Lisp files
 bbdb			git://github.com/jaalto/emacs-epackage--bbdb the insidious Big Brother Database
 c-eldoc			git://github.com/jaalto/emacs-epackage--c-eldoc helpful description of the arguments to C functions
