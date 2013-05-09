@@ -73,6 +73,7 @@ htmlize			git://github.com/jaalto/emacs-epackage--htmlize convert fontification 
 jabber-client 		git://github.com:jaalto/emacs-epackage--jabber-client client for Jabber XMPP protocol
 killer			git://github.com:jaalto/emacs-epackage--killer interactive functions to kill and delete text
 lib-date-calc		git://github.com:jaalto/emacs-epackage--lib-date-calc library of date calculation and parsing functions
+lib-date-parse		git://github.com:jaalto/emacs-epackage--lib-date-parse library of functions for parsing and sorting dates
 lib-dropdown-list 	git://github.com:jaalto/emacs-epackage--lib-dropdown-list library of dropdown menu functions
 lib-frame-fns 		git://github.com:jaalto/emacs-epackage--lib-frame-fns library of frame and window functions
 lib-furl 		git://github.com:jaalto/emacs-epackage--lib-furl library of top level functions to url.el
