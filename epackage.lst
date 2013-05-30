@@ -64,6 +64,7 @@ ell			git://github.com/jaalto/emacs-epackage--ell browse the Emacs Lisp List of 
 escreen			git://github.com/jaalto/emacs-epackage--escreen emulation of screen(1) window configuration save/restore
 etop			git://github.com/jaalto/emacs-epackage--etop run top(1) listing in Emacs buffer
 face-remap-plus		git://github.com/jaalto/emacs-epackage--face-remap-plus interactive font size manipulation functions
+fic-mode                git://github.com/jaalto/emacs-epackage--fic-mode Show FIXME/TODO/BUG/KLUDGE in special face in comments
 frame-cmds 		git://github.com:jaalto/emacs-epackage--frame-cmds library of interactive frame and window commands
 g-client		git://github.com/jaalto/emacs-epackage--g-client Google Client e.g. to access Google Calendar
 gse-number-rect		git://github.com/jaalto/emacs-epackage--gse-number-rect enhance rect.el by adding numering rectangles
