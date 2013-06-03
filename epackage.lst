@@ -70,6 +70,7 @@ gse-number-rect		git://github.com/jaalto/emacs-epackage--gse-number-rect enhance
 gse-rename		git://github.com/jaalto/emacs-epackage--gse-rename rename files like you would edit text
 git-commit-mode		git://github.com/jaalto/emacs-epackage--git-commit-mode major mode for editing git commit messages
 git-julliard		git://github.com/jaalto/emacs-epackage--git-julliard git interface by Alexandre Julliard
+gitsum                  git://github.com/jaalto/emacs-epackage--gitsum perform partial commits into the Git repository
 hide-lines		git://github.com/jaalto/emacs-epackage--hide-lines hide or preserve all matching lines in buffer
 hide-region		git://github.com/jaalto/emacs-epackage--hide-region hide or show regions like using kill-ring
 htmlize			git://github.com/jaalto/emacs-epackage--htmlize convert fontification into HTML
