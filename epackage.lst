@@ -51,6 +51,7 @@ c-eldoc			git://github.com/jaalto/emacs-epackage--c-eldoc helpful description of
 col-highlight		git://github.com/jaalto/emacs-epackage--col-highlight highlight the current column (etends vline.el)
 confluence-mode 	git://github.com/jaalto/emacs-epackage--confluence-mode mode for interacting with confluence wiki
 code-doc-mode		git://github.com/jaalto/emacs-epackage--code-doc-mode convenient editing of dockblock comment in-code
+color-theme-solarized   git://github.com/jaalto/color-theme-solarized Solarized color theme for Emacs
 crypt			git://github.com/jaalto/emacs-epackage--crypt encryption support
 cssh-mode		git://github.com/jaalto/emacs-epackage--cssh-mode major mode for cssh(1) Cluster SSH command
 delicious		git://github.com/jaalto/emacs-epackage--delicious commands for interacting with the Delicious API
