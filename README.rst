@@ -7,11 +7,13 @@ Package System (DELPS)* or simply *Epackage* format.
 
 The listed packages use Git Version Control System (DVCS) containers
 for distribution. These epackage repositories, containers, can reside
-anywhere publicly available. Their location is recorded in this
-**yellow page** file to make them available for users. The person who
-wraps Emacs extensions into containers is called epackage
-*maintainer*. The person who is he author of the extension is called
-*upstream*. These two can be the same or two separate people.
+anywhere publicly available. Their location is recorded in a **yellow
+page** file epackage.lst to make them available for users.
+
+The person who wraps Emacs extensions, or Emacs Lisp add-ons if you
+wish, into epackages is called the epackage *maintainer*. The person
+who is the maintainer of the extension is called the *upstream*. These
+two can be the same or two separate persons.
 
 For more information see:
 
@@ -26,8 +28,8 @@ How To Contribute
 =================
 
 Fork this project and download the repository to your local disk. Add
-new epackage information, commit to your github account and send a
-*Pull request* through github. See these page:
+new epackage information, commit chnages, push to your Github
+repository and send a *Pull request* through Github. See these page:
 
 - Forking a project: http://help.github.com/forking/
 - Sending pull requests: http://help.github.com/pull-requests/
@@ -38,14 +40,14 @@ The information collected here include:
 - GIT-URL      -- the public git repository URL.
 - DESCRIPTION  -- from 1st line from file ``epackage/info::Description``
 
-After your changes have been been merged, update your copy::
+After your changes have been been merged, update your copy with::
 
     git pull
 
 Copyright and License
 =====================
 
-Copyright (C) 2010-2012 Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2010-2013 Jari Aalto <jari.aalto@cante.net>
 
 This material is free; you can redistribute and/or modify it under
 the terms of GNU General Public license either version 2 of the
