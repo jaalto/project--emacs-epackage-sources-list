@@ -3,12 +3,13 @@ Description
 
 This directory contains the **Yellow Pages** sources list file that
 lists Emacs extensions that are available in *Distributed Emacs Lisp
-Package System (DELPS)* or simply *Epackage* format.
+Package System (DELPS)*, or simply Epackage, format.
 
-The listed packages use Git Version Control System (DVCS) containers
-for distribution. These epackage repositories, containers, can reside
-anywhere publicly available. Their location is recorded in a **yellow
-page** file epackage.lst to make them available for users.
+The packages use Git Version Control System (DVCS) containers for
+distribution. These epackage Git repositories can reside anywhere
+publicly available. The repository locations are recorded in the
+**yellow page** file name ``epackage.lst`` to make them available for
+users.
 
 The person who wraps Emacs extensions, or Emacs Lisp add-ons if you
 wish, into epackages is called the epackage *maintainer*. The person
