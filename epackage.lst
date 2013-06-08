@@ -38,8 +38,8 @@
 #
 #	- PACKAGE-NAME must be all lowercase and match case-sensitive
 #         regexp "^[a-z][a-z0-9-]+$"
-#       - GIT-REPOSITORY is URL to Git sources
-#       - DESCRIPTION is all lowercase one line description for a package
+#       - GIT-REPOSITORY is an URL to Git sources
+#       - DESCRIPTION is all lowercase one line description of a package
 
 adoc-mode		git://github.com/jaalto/emacs-epackage--adoc-mode major-mode for editing AsciiDoc markup files
 asciidoc-		git://github.com/jaalto/emacs-epackage--asciidoc menu for editing Asciidoc markup files
