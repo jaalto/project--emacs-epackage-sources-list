@@ -109,6 +109,7 @@ ruby-mode		git://github.com/jaalto/emacs-epackage--ruby-mode major mode for edit
 rst-mode		git://github.com/jaalto/emacs-epackage--rst-mode mode for editing *.rst reStructuredText markup files
 smart-tab		git://github.com/jaalto/emacs-epackage--smart-tab intelligent tab completion and indentation
 search-prop		git://github.com/jaalto/emacs-epackage--search-prop search forward and backward for properties
+sunrise-commander       git://github.com/jaalto/emacs-epackage--sunrise-commander Emacs implementation of two-pane midnight commander mc(1)
 tabbar-mode		git://github.com/jaalto/emacs-epackage--tabbar-mode mode to display a tab bar in the header line
 twittering-mode		git://github.com/jaalto/emacs-epackage--twittering-mode major mode and client for Twitter
 tinydesk		git://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
