@@ -38,7 +38,7 @@ repository and send a *Pull request* through Github. See these page:
 The information collected here include:
 
 - PACKAGE-NAME -- from ``epackage/info::Package`` field.
-- GIT-URL      -- the public git repository URL.
+- GIT-URL      -- the public Git repository URL.
 - DESCRIPTION  -- from 1st line from file ``epackage/info::Description``
 
 After your changes have been been merged, update your copy with::
