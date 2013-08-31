@@ -29,7 +29,7 @@ How To Contribute
 =================
 
 Fork this project and download the repository to your local disk. Add
-new epackage information, commit chnages, push to your Github
+new epackage information, commit changes, push to your Github
 repository and send a *Pull request* through Github. See these page:
 
 - Forking a project: http://help.github.com/forking/
