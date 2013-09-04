@@ -64,7 +64,7 @@ escreen			https://github.com/jaalto/emacs-epackage--escreen emulation of screen(
 etop			https://github.com/jaalto/emacs-epackage--etop run top(1) listing in Emacs buffer
 face-remap-plus		https://github.com/jaalto/emacs-epackage--face-remap-plus interactive font size manipulation functions
 fic-mode                https://github.com/jaalto/emacs-epackage--fic-mode Show FIXME/TODO/BUG/KLUDGE in special face in comments
-fill-column-indicator-mode https://github.com:jaalto/emacs-epackage--fill-column-indicator-mode minor mde to graphically indicate the fill column
+fill-column-indicator-mode https://github.com/jaalto/emacs-epackage--fill-column-indicator-mode.git minor mde to graphically indicate the fill column
 frame-cmds 		https://github.com:jaalto/emacs-epackage--frame-cmds library of interactive frame and window commands
 g-client		https://github.com/jaalto/emacs-epackage--g-client Google Client e.g. to access Google Calendar
 gse-number-rect		https://github.com/jaalto/emacs-epackage--gse-number-rect enhance rect.el by adding numering rectangles
