@@ -62,6 +62,7 @@ el-get			https://github.com/jaalto/emacs-epackage--el-get browse the Emacs Lisp 
 ell			https://github.com/jaalto/emacs-epackage--ell browse the Emacs Lisp List of available packages
 escreen			https://github.com/jaalto/emacs-epackage--escreen emulation of screen(1) window configuration save/restore
 etop			https://github.com/jaalto/emacs-epackage--etop run top(1) listing in Emacs buffer
+expand-region		https://github.com/jaalto/emacs-epackage--expand-region.git increase selected region by semantic units
 face-remap-plus		https://github.com/jaalto/emacs-epackage--face-remap-plus interactive font size manipulation functions
 fic-mode                https://github.com/jaalto/emacs-epackage--fic-mode Show FIXME/TODO/BUG/KLUDGE in special face in comments
 fill-column-indicator-mode https://github.com/jaalto/emacs-epackage--fill-column-indicator-mode.git minor mde to graphically indicate the fill column
