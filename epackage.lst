@@ -78,6 +78,7 @@ hide-lines		https://github.com/jaalto/emacs-epackage--hide-lines hide or preserv
 hide-region		https://github.com/jaalto/emacs-epackage--hide-region hide or show regions like using kill-ring
 htmlize			https://github.com/jaalto/emacs-epackage--htmlize convert fontification into HTML
 jabber-client 		https://github.com:jaalto/emacs-epackage--jabber-client client for Jabber XMPP protocol
+key-chord-mode		https://github.com/jaalto/emacs-epackage--key-chord-mode.git map pairs of simultaneously pressed keys to commands
 killer			https://github.com:jaalto/emacs-epackage--killer interactive functions to kill and delete text
 lib-date-calc		https://github.com:jaalto/emacs-epackage--lib-date-calc library of date calculation and parsing functions
 lib-date-parse		https://github.com:jaalto/emacs-epackage--lib-date-parse library of functions for parsing and sorting dates
