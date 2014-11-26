@@ -1,6 +1,6 @@
 #   Copyright
 #
-#       Copyright (C) 2010-2013 Jari Aalto <jari.aalto@cante.net>
+#       Copyright (C) 2010-2015 Jari Aalto <jari.aalto@cante.net>
 #
 #   License
 #
@@ -43,6 +43,7 @@
 
 adoc-mode               https://github.com/jaalto/emacs-epackage--adoc-mode major-mode for editing AsciiDoc markup files
 asciidoc-               https://github.com/jaalto/emacs-epackage--asciidoc menu for editing Asciidoc markup files
+aok                     https://github.com/jaalto/emacs-epackage--aok Enhancements to multi-occur to search by mode, by buffer regexp etc.
 auto-compile            https://github.com/jaalto/emacs-epackage--auto-compile automatically compile Emacs Lisp files
 bbdb                    https://github.com/jaalto/emacs-epackage--bbdb the insidious Big Brother Database
 c-eldoc                 https://github.com/jaalto/emacs-epackage--c-eldoc helpful description of the arguments to C functions
