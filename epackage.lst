@@ -1,6 +1,6 @@
 #   Copyright
 #
-#       Copyright (C) 2010-2015 Jari Aalto <jari.aalto@cante.net>
+#       Copyright (C) 2010-2016 Jari Aalto <jari.aalto@cante.net>
 #
 #   License
 #
@@ -53,6 +53,7 @@ code-doc-mode           https://github.com/jaalto/emacs-epackage--code-doc-mode 
 color-theme-solarized   https://github.com/jaalto/color-theme-solarized Solarized color theme for Emacs
 crypt                   https://github.com/jaalto/emacs-epackage--crypt encryption support
 cssh-mode               https://github.com/jaalto/emacs-epackage--cssh-mode major mode for cssh(1) Cluster SSH command
+cygwin-mount		https://github.com/jaalto/emacs-epackage--cygwin-mount Add Cygwin path upport to NTEmacs
 delicious               https://github.com/jaalto/emacs-epackage--delicious commands for interacting with the Delicious API
 ditz                    https://github.com/jaalto/emacs-epackage--ditz client interface to Ditz issue tracking system
 egg                     https://github.com/jaalto/emacs-epackage--egg git interface fork of magit
