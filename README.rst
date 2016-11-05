@@ -48,7 +48,7 @@ After your changes have been been merged, update your copy with::
 Copyright and License
 =====================
 
-Copyright (C) 2010-2015 Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2010-2016 Jari Aalto <jari.aalto@cante.net>
 
 This material is free; you can redistribute and/or modify it under
 the terms of GNU General Public license either version 2 of the
