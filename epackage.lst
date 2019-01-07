@@ -1,6 +1,6 @@
 #   Copyright
 #
-#       Copyright (C) 2010-2016 Jari Aalto <jari.aalto@cante.net>
+#       Copyright (C) 2010-2019 Jari Aalto <jari.aalto@cante.net>
 #
 #   License
 #
@@ -101,6 +101,7 @@ markdown-mode           https://github.com/jaalto/emacs-epackage--markdown-mode 
 marmalade               https://github.com/jaalto/emacs-epackage--marmalade interface for the ELPA/marmalade package server
 mediawiki-mode          https://github.com/jaalto/emacs-epackage--mediawiki-mode major mode for editing MediaWiki pages (wikipedia)
 melpa                   https://github.com/jaalto/emacs-epackage--melpa customizations to package.el to exclude or include versions
+messages-are-flowing	https://github.com/jaalto/emacs-epackage--messages-are-flowing support for email format=flowed
 multi-term              https://github.com/jaalto/emacs-epackage--multi-term multiple terminal management
 mutt-mode               https://github.com/jaalto/emacs-epackage--mutt-mode major mode for editing messages from mutt(1) MUA.
 psvn                    https://github.com/jaalto/emacs-epackage--psvn client interface to Subversion (SVN) version control
