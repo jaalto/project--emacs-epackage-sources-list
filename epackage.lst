@@ -118,6 +118,7 @@ smart-tab               https://github.com/jaalto/emacs-epackage--smart-tab inte
 search-prop             https://github.com/jaalto/emacs-epackage--search-prop search forward and backward for properties
 sunrise-commander       https://github.com/jaalto/emacs-epackage--sunrise-commander Emacs implementation of two-pane midnight commander mc(1)
 tabbar-mode             https://github.com/jaalto/emacs-epackage--tabbar-mode mode to display a tab bar in the header line
+tabulature-mode         https://github.com/jaalto/emacs-epackage--tabulature-mode mode for editing guitar tablature
 twittering-mode         https://github.com/jaalto/emacs-epackage--twittering-mode major mode and client for Twitter
 tinydesk                https://github.com/jaalto/project-emacs--tinydesk.git save and restore files between sessions
 tinymacro               https://github.com/jaalto/project-emacs--tinymacro.git an easy way to assign created macros to a keys
