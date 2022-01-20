@@ -117,6 +117,7 @@ ruby-mode               https://github.com/jaalto/emacs-epackage--ruby-mode majo
 rst-mode                https://github.com/jaalto/emacs-epackage--rst-mode mode for editing *.rst reStructuredText markup files
 smart-tab               https://github.com/jaalto/emacs-epackage--smart-tab intelligent tab completion and indentation
 search-prop             https://github.com/jaalto/emacs-epackage--search-prop search forward and backward for properties
+session                 https://github.com/jaalto/emacs-epackage--session save variables, registers and buffers across sessions
 sunrise-commander       https://github.com/jaalto/emacs-epackage--sunrise-commander Emacs implementation of two-pane midnight commander mc(1)
 tabbar-mode             https://github.com/jaalto/emacs-epackage--tabbar-mode mode to display a tab bar in the header line
 tabulature-mode         https://github.com/jaalto/emacs-epackage--tabulature-mode mode for editing guitar tablature
